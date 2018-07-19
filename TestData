@@ -1,0 +1,31 @@
+Registration:
+
+{
+  "firstName": "Akash",
+  "lastName": "Rai",
+  "address": "Borivali",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "zipcode": "400103",
+  "phone": "+91-9000000000",
+  "email": "004@gmail.com",
+  "password": "Akash",
+  "role": "customer"
+}
+
+Login:
+{
+  "email": "004@gmail.com",
+  "password": "Akash"
+}
+
+Books:
+{
+	"bookName" : "The Secret",
+	"bookCost" : "500",
+	"bookAuthor" : "Rhonda Bryne",
+	"bookISBN" : "978-1-58270-170-7",
+	"bookImage" : "https://www.theblackandwhiteedit.co.uk/wp-content/uploads/2017/07/secfret.jpg",
+	"bookCategory" : "Non-Fiction",
+	"bookDescription" : "The Secret is a best-selling 2006 self-help book by Rhonda Byrne, based on the earlier film of the same name. It is based on the pseudo-scientific 'law of attraction' which claims that thoughts can change the world directly."
+}
